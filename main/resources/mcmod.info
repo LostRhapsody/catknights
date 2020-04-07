@@ -1,0 +1,16 @@
+[
+{
+  "modid": "catknights",
+  "name": "Cat Knights",
+  "description": "The Throne of Meowny has been lost.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["LostRhapsody"],
+  "credits": "Cats.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
